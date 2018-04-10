@@ -1,6 +1,7 @@
 ---
-title: "Nome do aluno"
-output: 
+title: "Eduardo L. Pereira"
+output:
+  pdf_document: default
   html_document:
     include:
       after_body: footer.html
